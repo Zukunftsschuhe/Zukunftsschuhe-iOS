@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SPIndicator",
+        "repositoryURL": "https://github.com/ivanvorobei/SPIndicator",
+        "state": {
+          "branch": "main",
+          "revision": "bf89051dbbabf302804c237cc4b8fa324805432c",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
